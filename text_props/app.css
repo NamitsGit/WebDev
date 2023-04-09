@@ -1,0 +1,17 @@
+body {
+    background-color: #f1faee;
+}
+
+button {
+    font-size: 30px;
+    background-color: #80ED99;
+}
+
+h1, h2 {
+    color: #1d3557;
+}
+
+#log-in {
+    background-color: #FCECC9;
+    color: #301A4B;
+}
