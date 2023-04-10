@@ -1,0 +1,29 @@
+body {
+    background-color:lightblue;
+}
+
+header button {
+    color:mediumblue;
+    background-color: lightgoldenrodyellow;
+    font-size: 25px;
+}
+
+.post .username a {
+    color:black;
+}
+
+.post button {
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+}
+
+.post button:hover {
+    background-color: blueviolet;
+}
+
+.tag {
+    font-size: 18px;
+    background-color: lightcoral;
+    color: white;
+}
