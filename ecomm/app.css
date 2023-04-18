@@ -1,0 +1,49 @@
+.navbar{
+    display: inline;
+}
+
+.nav-links {
+    display: inline;
+    background-color: aqua;
+    border: 2px solid red;
+    width: 1080px;
+    height: 500px;
+    margin-left: 20px;
+}
+
+.box1 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+    margin-top: 50px;
+    background-color: black;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    margin-left: 5px;
+    margin-top: 25px;
+    color: white;
+}
+
+.box2 {
+    height: 1000px;
+    width: 1000px;
+    background-color: cadetblue;
+}
+.nav-links ul {
+    display: inline-block;
+    width: 800px;
+}
+
+.nav-links ul li {
+    display: inline-block;
+    height: 50px;
+    padding-left: 30px; 
+}
+
+nav {
+    background-color: aquamarine;
+    height: 96px;
+}
