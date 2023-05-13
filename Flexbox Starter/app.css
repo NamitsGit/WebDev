@@ -15,11 +15,21 @@ h1 {
     display: flex;
     /* The default value of flex-direction is row.
     Possible valules are row-reverse, column, column-reverse */
-    flex-direction: column-reverse;
-
+    flex-direction: row;
+    /* justify-content works on the main-axis. i.e if the main
+    axis (flex-direction) is row then justify-content can
+    position the elements horizontally along the axis.
+    if the main axis is a column then justify-content can
+    position the elements vertically along the axis. */
+    justify-content: center;
+    /* align-items is used to position items in the cross-axis
+    i.e if the main axis is row then align-items: flex-end will align the items at the bottom ( as the default direction of vertical cross axis (column) is top-down.  */
+    /* align-items: flex-start;
+    flex-wrap: wrap; */
 }
 
 #container div {
     width: 200px;
     height: 200px;
+    text-align: center;
 }
