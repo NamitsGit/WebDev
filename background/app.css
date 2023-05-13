@@ -1,0 +1,15 @@
+section {
+    width: 80%;
+    height: 800px;
+    /* background-image: url('static/bg.jpg'); */
+    /* background-size: cover; */
+    /* background-position: top; */
+    margin: 0 auto;
+    background: no-repeat center/cover url('static/bg.jpg');
+    
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
