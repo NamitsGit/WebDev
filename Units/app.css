@@ -1,0 +1,54 @@
+#ems section {
+     background-color: #6d6875;
+     height: 800px;
+     width: 800px;
+}
+
+#ems h2 {
+    font-size: 2em;
+    margin-left: 1em;
+}
+
+#ems h3 {
+    font-size: 1.5em;
+}
+#ems article {
+    font-size: 25px;
+}
+
+#ems p {
+    font-size: 0.8em;
+}
+
+#ems div {
+    background-color: #e5989b;
+    width: 50%;
+    height: 50%;
+}
+
+#ems button {
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+    background-color: #2a9d8f;
+    color: white;
+}
+
+#ems ul {
+    font-size: 0.8em;
+}
+
+
+#rems h3 {
+    font-size: 3rem;
+}
+
+#rems ul {
+    font-size: 0.8rem;
+}
+
+#rems button {
+    font-size: 1.5rem;
+    background-color: #2a9d8f;
+    color: white;
+}
